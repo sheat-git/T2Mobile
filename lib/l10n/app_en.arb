@@ -1,0 +1,77 @@
+{
+  "thisFieldIsRequired": "This field is required.",
+  "thisFieldMustBeNCharactersLong": "This field must be {n} characters long.",
+  "@thisFieldMustBeNCharactersLong": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "login": "Login",
+  "studentId": "Student ID",
+  "password": "Password",
+  "matrixCode": "Matrix Code",
+  "rowN": "Row {n}",
+  "@rowN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "pasteFromClipboard": "Paste from clipboard",
+  "copyToClipboard": "Copy to clipboard",
+  "importFromFile": "Import from file",
+  "exportToFile": "Export to file",
+  "clipboardIsEmpty": "Clipboard is empty.",
+  "anUnexpectedErrorOccurred": "An unexpected error occurred.",
+  "theFormatIsInvalid": "The format is invalid.",
+  "importedSuccessfully": "Imported successfully.",
+  "exportedSuccessfully": "Exported successfully.",
+  "courses": "Courses",
+  "assignments": "Assignments",
+  "notifications": "Notifications",
+  "web": "Web",
+  "settings": "Settings",
+  "loggingIn": "Logging in...",
+  "resourceMenu": "Resource Menu",
+  "webSystemForStudentsAndFaculty": "Web system for Students and Faculty",
+  "t2schola": "T2SCHOLA",
+  "tokyoTechMail": "Tokyo Tech Mail",
+  "general": "General",
+  "language": "Language",
+  "account": "Account",
+  "appearance": "Appearance",
+  "themeMode": "Theme Mode",
+  "light": "Light",
+  "dark": "Dark",
+  "system": "System",
+  "pureBlack": "Pure Black",
+  "usePureBlackForDarkMode": "Use pure black for dark mode",
+  "advanced": "Advanced",
+  "hideBottomBarInWebTab": "Hide Bottom Bar in Web Tab",
+  "hideTheBottomBarWhenScrollingDownInTheWebTab": "Hide the bottom bar when scrolling down in the web tab",
+  "showBannerAboutData": "Show Banner about Data",
+  "showABannerWithInformationAboutTheLastUpdateDateAndTimeOfTheData": "Show a banner with information about the last update date and time of the data",
+  "clearCache": "Clear Cache",
+  "cacheCleared": "Cache cleared.",
+  "aboutThisApp": "About This App",
+  "version": "Version",
+  "license": "License",
+  "updatedAt": "Updated at {date}",
+  "@updatedAt": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "retrievingData": "Retrieving data...",
+  "timetable": "Timetable",
+  "unknownCategory": "Unknown Category",
+  "courseSurveyOfStudyEffectiveness": "Course Survey of Study Effectiveness",
+  "authenticationInfo": "Authentication Info",
+  "save": "Save",
+  "savedSuccessfully": "Saved successfully."
+}
